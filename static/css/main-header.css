@@ -1,0 +1,68 @@
+
+.main-header {
+    background-image: url('https://templatekit.kulokale.com/plumbtion/wp-content/uploads/sites/7/2021/12/plumber-in-uniform-changes-faucet-in-the-kitchen-resize-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.header-text h6 {
+    color: #ff5316;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.header-text h1 {
+    font-weight: 900;
+    font-size: 55px;
+    color: #192437;
+}
+
+.header-text p {
+    font-size: 17px;
+    color: #646262;
+}
+
+.btn-more {
+    background-color: #ff5316;
+    font-size: 16px;
+    color: #fff !important;
+    font-weight: 500;
+    border-radius: 0 !important;
+}
+
+.btn-more:hover{
+    background-color: #192437;
+    transition: all .3s ease-in-out;
+}
+
+.request-section {
+    background: #192437;
+}
+
+
+@media(max-width:576px) {
+
+    .header-text h1 {
+        font-size: 30px !important;
+    }
+}
+
+.btn-request {
+    background-color: #ff5316;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 0 !important;
+    border: none}
+
+.request-section h1 {
+    color: #fff;
+    font-weight: 700 !important;
+}
+
+.request-section p {
+    color: #fff;
+    font-size: 17px;
+}
